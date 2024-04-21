@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thdaguin
 - 👀 I’m interested in nature, computing science, collective intelligence 
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m a Laravel and Symfony developer
 
 <!---
 thdaguin/thdaguin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
