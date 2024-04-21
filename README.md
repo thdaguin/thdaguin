@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thdaguin
-- 👀 I’m interested in nature, computing science, collective intelligence 
+- 👀 I’m interested in nature, computing science, collective intelligence and ... diving
 - 🌱 I’m a Laravel and Symfony developer
 
 <!---
